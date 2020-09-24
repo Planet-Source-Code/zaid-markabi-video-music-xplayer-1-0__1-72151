@@ -1,0 +1,6 @@
+Xplayer 1.0
+
+Simple Video\Music player, support most popular formats, with Library menu,
+watch your favorite videos by using this simple project..
+
+Note : this application deppends on WindowsMediaPlayer OCX .
